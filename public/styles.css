@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    font-size: 20px;
+}
+/* selector - body,div,table etc */
+div{
+    background-color: lightgray;
+    font-weight: 600;
+    margin: 15px;
+}
+table{
+    margin: auto;
+}
+table,th,tr,td{
+    font-size: 15px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+header{
+    margin: auto;
+    font-size: 35px;
+}
+
+#tag1{
+    font-size: 30px;
+}
