@@ -3,6 +3,8 @@ body{
     font-size: 20px;
 }
 /* selector - body,div,table etc */
+
+
 div{
     background-color: lightgray;
     font-weight: 600;
@@ -23,4 +25,7 @@ header{
 
 #tag1{
     font-size: 30px;
+}
+.list{
+    background-color: aqua;
 }
